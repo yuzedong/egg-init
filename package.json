@@ -1,5 +1,5 @@
 {
-  "name": "@zhennann/egg-init",
+  "name": "@yuzedong/egg-init",
   "version": "1.17.3",
   "description": "Init egg app helper tools.",
   "main": "lib/init_command.js",
